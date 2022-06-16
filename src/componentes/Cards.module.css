@@ -1,0 +1,19 @@
+.container {
+  margin-top: 0px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.titulo {
+  padding-top: 10px;
+  text-align: center;
+  color: #fff;
+}
+
+.fondo {
+  background-image: url(../utilidades/clouds.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

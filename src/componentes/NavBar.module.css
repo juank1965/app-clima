@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 1.3em;
+  margin-right: 1.3em;
+}
+
+.header {
+  background: lightgray;
+  border-bottom-style: solid;
+}
+
+.brand {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  margin-right: 8px;
+}
+
+.active {
+  color: #f00;
+}
